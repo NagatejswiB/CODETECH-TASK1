@@ -29,3 +29,9 @@ Sentiment Analysis is the process of determining whether a piece of text (like a
 
 ![image](https://github.com/user-attachments/assets/bf9a4f1d-e3e6-4f1a-b552-89c10dd9d551)
 
+
+Text Classification
+Text Classification is the task of assigning predefined categories to text documents. It can be used for spam detection, topic labeling, or any task where text needs to be categorized into specific groups.
+
+![image](https://github.com/user-attachments/assets/4e00502c-116b-4a18-8d05-351a20efa6d1)
+
