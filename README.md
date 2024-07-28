@@ -1,4 +1,11 @@
-# CODETECH-TASK1
+Name: NAGATEJASWI BUDAGALA
+Company: CODETECH IT SOLUTIONS
+ID: CT08DS4980
+Dpomain: ARTIFICIAL INTELLIGENCE
+Duration: JULY TO AUGUST 2024
+Mentor: Muzammil Ahmed
+
+OVERVIEW OF THE PROJECT:
 
 Natural Language Processing (NLP) is indeed a fascinating and expansive field within AI. Here, I'll outline some key aspects of NLP, particularly focusing on sentiment analysis, and provide examples of outputs for better understanding.
 1.	Sentiment Analysis
